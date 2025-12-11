@@ -57,7 +57,7 @@ This project is an interactive Python application that visualizes the inner work
     -   **Space Complexity:** O(1).
 -   **Use Case:** Only for sorting lists that contain a full, unique set of integers from 1 to N. It will fail on datasets with duplicates, floats, or arbitrary numbers.
 
-## 3. Deep Dive: Adaptive Balance Sort
+## 3. Deep Dive: Adaptive Balance Sort (Stijn's creation XD)
 
 This is the most advanced algorithm in the collection. It is a custom-designed hybrid sort, inspired by Introsort, one of the fastest sorting algorithms in existence.
 
